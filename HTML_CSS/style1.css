@@ -1,0 +1,17 @@
+body{
+    background:green;
+}
+h1{
+    background: blueviolet;
+    margin-top: 100px;
+}
+.class1{
+    background:palevioletred;
+}
+.mytable{
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 2px;
+    background-color: aquamarine;
+    margin-left: 100px;
+}
